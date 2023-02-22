@@ -8,14 +8,14 @@ from datetime import datetime
 import traceback
 import os
 
-dcfg = '''#Configure
+dcfg = '''#Config
 #LocalPort
 LocalPort: 25565
 #Server IP Address
 ServerIpAddress: 'mc.hypixel.net'
 #ServerPort
 ServerPort: 25565
-#Maximum connection
+#Maximum of connection
 Maxmium: 10
 #White List Check
 WCheck: false
